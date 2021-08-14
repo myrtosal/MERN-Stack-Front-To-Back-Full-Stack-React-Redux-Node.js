@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://user1:user1@devconnector.h1wvc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://user1:user1@devconnector.h1wvc.mongodb.net/MERN?retryWrites=true&w=majority",
+    "jwtSecret": "XIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTYyODkzODMyOSwiaWF0IjoxNjI4OTM4MzI5fQ"
 }
