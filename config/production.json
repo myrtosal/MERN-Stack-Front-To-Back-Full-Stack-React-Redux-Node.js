@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://user1:user1@devconnector.h1wvc.mongodb.net/MERN?retryWrites=true&w=majority",
+    "jwtSecret": "XIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTYyODkzODMyOSwiaWF0IjoxNjI4OTM4MzI5fQ",
+    "githubClientId": "e021b17c4ba7c5a8d839",
+    "githubSecret": "0cad462479efa32fe477385aedaa84d789a7e3c6"
+}
